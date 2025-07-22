@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "titulo": "Jugar baloncesto",
+    "completada": false
+  },
+  {
+    "id": 2,
+    "titulo": "Nadar 2100 metros",
+    "completada": false
+  },
+  {
+    "id": 3,
+    "titulo": "Ir al gimnasio ",
+    "completada": false
+  },
+  {
+    "id": 4,
+    "titulo": "Jugar padel",
+    "completada": false
+  },
+  {
+    "id": 5,
+    "titulo": "Estirar al despertar",
+    "completada": false
+  },
+  {
+    "id": 6,
+    "titulo": "Preparar desayuno saludable",
+    "completada": false
+  },
+  {
+    "id": 7,
+    "titulo": "Beber 2 litros de agua",
+    "completada": false
+  },
+  {
+    "id": 8,
+    "titulo": "Evitar comida chatarra",
+    "completada": false
+  },
+  {
+    "id": 9,
+    "titulo": "Planear menú de la semana",
+    "completada": false
+  },
+  {
+    "id": 10,
+    "titulo": "Hacer la compra",
+    "completada": false
+  },
+  {
+    "id": 11,
+    "titulo": "Estudiar desarrollo",
+    "completada": false
+  },
+  {
+    "id": 12,
+    "titulo": "Resolver bugs del proyecto",
+    "completada": false
+  },
+  {
+    "id": 13,
+    "titulo": "Enviar CV actualizado",
+    "completada": false
+  },
+  {
+    "id": 14,
+    "titulo": "Pasar prueba de Node.js",
+    "completada": false
+  },
+  {
+    "id": 15,
+    "titulo": "Leer artículo técnico",
+    "completada": false
+  },
+  {
+    "id": 16,
+    "titulo": "Lavar ropa",
+    "completada": false
+  },
+  {
+    "id": 17,
+    "titulo": "Limpiar escritorio",
+    "completada": false
+  },
+  {
+    "id": 18,
+    "titulo": "Organizar habitación",
+    "completada": false
+  },
+  {
+    "id": 19,
+    "titulo": "Sacar la basura",
+    "completada": false
+  },
+  {
+    "id": 20,
+    "titulo": "Lavar los platos",
+    "completada": false
+  },
+  {
+    "id": 21,
+    "titulo": "Lavar el carro",
+    "completada": false
+  }
+  
+]
