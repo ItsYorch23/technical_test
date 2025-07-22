@@ -43,11 +43,12 @@ const App: React.FC = () => {
   if (showWelcome) {
     return (
       <div className="welcome-screen">
-        <img src="./public/img/logo.png" alt="Logo" className="logo" 
-        width={150}
-        height={150}/>
-
-        <h1>¡Bienvenido!</h1>
+        <img src="../public/img/logo_circu.png" alt="Logo" className="logo" 
+        width={500}
+        height={500}/>
+        <h1 style={{ fontSize: '50px', fontWeight: 'bold' }}>PRUEBA DE DESARROLLO</h1>
+        <h1 style={{ fontSize: '50px', fontWeight: 'bold' }}>¡Bienvenido!</h1>
+        
         <button className="welcome-button" onClick={() => setShowWelcome(false)}>
           Entrar
         </button>
@@ -58,8 +59,8 @@ const App: React.FC = () => {
 
   return (
     <div className="app-container">
-      <h1>Prueba de desarrollo</h1>
-      <h1>Lista de Tareas</h1>
+      <h1>LISTA DE TAREAS</h1>
+      <h1>¡Hora de ser procutivos!</h1>
       <FilterButtons current={filter} onChange={setFilter} />
       {loading ? (
         <p>Cargando tareas...</p>
