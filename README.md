@@ -23,6 +23,16 @@ Aplicación desarrollada en React + TypeScript que permite visualizar, filtrar y
 
 ---
 
+## 🌿 Ramas del repositorio
+
+Este proyecto tiene dos ramas principales:
+
+- **main**: La rama más estructurada y estable, con toda la funcionalidad completa y mejor organizada.  
+- **feature/router**: Rama con funcionalidades adicionales en desarrollo como el manejo de routing o uso complejo de rutas.
+
+Se recomienda usar la rama `main` para revisión general.
+
+
 ## 🔧 Instalación
 
 1. Clona el repositorio:
