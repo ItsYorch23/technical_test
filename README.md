@@ -1,4 +1,5 @@
-# 📝 Lista de Tareas - Technical Test
+# AB Technology Group 
+# 📝 Lista de Tareas  
 
 Aplicación desarrollada en React + TypeScript que permite visualizar, filtrar y gestionar una lista de tareas de forma sencilla y funcional.
 
