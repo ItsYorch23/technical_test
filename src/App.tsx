@@ -43,7 +43,7 @@ const App: React.FC = () => {
   if (showWelcome) {
     return (
       <div className="welcome-screen">
-        <img src="../public/img/logo_circu.png" alt="Logo" className="logo" 
+        <img src="/img/logo_circu.png" alt="Logo" className="logo" 
         width={500}
         height={500}/>
         <h1 style={{ fontSize: '50px', fontWeight: 'bold' }}>PRUEBA DE DESARROLLO</h1>
@@ -60,7 +60,7 @@ const App: React.FC = () => {
   return (
     <div className="app-container">
       <h1>LISTA DE TAREAS</h1>
-      <h1>¡Hora de ser procutivos!</h1>
+      <h1>¡Hora de ser productivos!</h1>
       <FilterButtons current={filter} onChange={setFilter} />
       {loading ? (
         <p>Cargando tareas...</p>
